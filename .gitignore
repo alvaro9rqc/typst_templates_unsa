@@ -1,0 +1,22 @@
+# Git Ignore Rules for Typst Templates
+
+# Compile PDF artifacts
+*.pdf
+**/*.pdf
+
+# Slide inspiration folder
+generic-slide-fresh/inspiration/
+
+# Neovim / Vim local configurations
+.nvim.lua
+**/.nvim.lua
+.nvimrc
+**/.nvimrc
+.nvim/
+**/.nvim/
+.vim/
+**/.vim/
+
+# IDE configurations
+.vscode/
+.idea/
