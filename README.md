@@ -11,13 +11,11 @@ Este repositorio contiene una colección de plantillas y formatos estructurados 
      ![Vista previa de Slides](assets/slides.png)
 
 2. **[caratula_unsa_typ](file:///home/alvaro9rqc/1_Pacha/5-varios/templates/typs/caratula_unsa_typ)**
-   - **Autor:** Hecho por el usuario (propietario original).
    - **Descripción:** Estructura modular estándar para reportes y trabajos entregables de cursos universitarios de la UNSA.
    - **Previsualización:**
      ![Vista previa de Carátula](assets/caratula.png)
 
 3. **[laboratorio-abet](file:///home/alvaro9rqc/1_Pacha/5-varios/templates/typs/laboratorio-abet)**
-   - **Autor:** Hecho por el usuario (propietario original).
    - **Descripción:** Formato diseñado específicamente para el llenado y presentación de informes de laboratorios alineados a las acreditaciones y rúbricas ABET.
    - **Previsualización:**
      ![Vista previa de Laboratorio](assets/laboratorio.png)
